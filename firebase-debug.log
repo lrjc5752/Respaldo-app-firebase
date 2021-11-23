@@ -1,0 +1,21 @@
+[debug] [2021-08-25T19:27:28.038Z] ----------------------------------------------------------------------
+[debug] [2021-08-25T19:27:28.044Z] Command:       C:\Users\LUISRA~1\DOWNLO~1\firebase-tools-instant-win.exe C:\Users\Luis Rafael\.cache\firebase\tools\lib\node_modules\firebase-tools\lib\bin\firebase init
+[debug] [2021-08-25T19:27:28.045Z] CLI Version:   9.16.5
+[debug] [2021-08-25T19:27:28.045Z] Platform:      win32
+[debug] [2021-08-25T19:27:28.046Z] Node Version:  v12.18.1
+[debug] [2021-08-25T19:27:28.047Z] Time:          Wed Aug 25 2021 14:27:28 GMT-0500 (GMT-05:00)
+[debug] [2021-08-25T19:27:28.048Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-08-25T19:27:28.075Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-08-25T19:27:28.076Z] > authorizing via signed-in user (luisrafaeljimenezcelis@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Luis Rafael\Desktop\Development\REACT\app-firebase
+
